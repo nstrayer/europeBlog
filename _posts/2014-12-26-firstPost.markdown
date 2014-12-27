@@ -8,7 +8,7 @@ This is just a preliminary post to this blog. Fair warning, this whole site may 
 
 I am currently sitting in the Charlotte, NC airport soon to board to flight to Boston where I will spend the night. Tyler will arrive tomorrow morning and then we depart at 6:15 EST to Dublin one-way. 
 
-![Nick and Ana at the Discovery Museum]({{ site.baseurl }}{{ post.url }}/assets/nick_ana_discover.jpg)
+![Nick and Ana at the Discovery Museum]({{ site.baseurl }}/assets/nick_ana_discover.jpg)
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
