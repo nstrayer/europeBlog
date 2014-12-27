@@ -1,0 +1,19 @@
+---
+layout: post
+title:  Testing
+date:   2014-12-26 18:26:45
+categories: jekyll update
+---
+This is a test to see how well the post system works. 
+
+Test
+Test
+
+* Test1
+* Test2
+* Test3
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
