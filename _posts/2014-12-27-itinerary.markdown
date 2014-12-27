@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Itinerary 
-date:   2014-12-26 18:26:45
+date:   2014-12-27 6:26:45
 categories: jekyll update
 ---
 We purchased out in Europe flights the other day. Our official itinerary for the trip will be 
