@@ -6,7 +6,7 @@ categories: check-in
 ---
 
 ### Abstract:
-We traveled around the southern Irish countryside and went to the Jameson factory. 
+We traveled around the southern Irish countryside and went to the Jameson factory. Now we are going to dinner. 
 
 ### Methods:
 After potentially the most comfortable night of sleep in our lives we woke up, had some traditional Irish white and brown bread. Upon finishing breakfast we made our way out through the countryside. We got to see some very beautiful views. 
@@ -24,7 +24,7 @@ Inside was just as beautiful as the outside.
 
 ![inside the cathedral]({{ site.baseurl }}/assets/cathedral.jpg)
 
-From here we went to lunch at in the town of Lismore. A quaint and bustling little town. We had traditional lunch sandwiches and pints. 
+From here we went to lunch at in the town of Lismore. A quaint and bustling little town. We had traditional lunch of sandwiches and pints. 
 
 ![Lismore]({{ site.baseurl }}/assets/lismore.jpg)
 
