@@ -41,7 +41,7 @@ We slept very late this morning and are now about to take the train into Dublin 
 
 Can’t say we can complain about the weather we are supposed to get. Although it has been beautifully nice here in Ireland as well. 
 
-We are so very grateful for the hospitality shown to us by Anthony, Jo, Glenn and Pearl on our time here in Cork County. It has been amazing. I hope we can come back and impose on you again soon!
+We are so very grateful for the hospitality shown to us by Anthony, Jo, Glenn and Pearl during our time here in Cork County. It has been amazing. I hope we can come back and impose on you again soon!
 
 ![house]({{ site.baseurl }}/assets/byeHouse.jpg)
 
