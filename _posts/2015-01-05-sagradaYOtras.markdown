@@ -28,7 +28,7 @@ To the absolutely astounding scale on the inside (those are people at the bottom
 
 From the outside it really looks like a mish-mash of a bunch of different styles and techniques…
 
-![sagrada far]({{ site.baseurl }}/assets/barcelona/sagradaFar.JPG)
+![sagrada far]({{ site.baseurl }}/assets/barcelona/sagradaFar.jpg)
 
 …but once you stand in it and soak it in for a while you begin to see the genius that binds it all together. 
 
