@@ -24,11 +24,11 @@ __end aside__
 
 The mountain was beautiful. It is very nice to have a situation where in a city as large as Barcelona you can really get away from the bustle and just relax in nature. It doesn’t hurt when the view from that nature is of a beautiful city and the Mediterranean…
 
-![panorama]({{ site.baseurl }}/assets/barcelona/cityOceanPan.jpg)
+![panorama]({{ site.baseurl }}/assets/barcelona/cityOceanPan.JPG)
 
 We kept walking up and up and the views were amazing at all points. 
 
-![another]({{ site.baseurl }}/assets/barcelona/fromTheMountain.jpg)
+![another]({{ site.baseurl }}/assets/barcelona/fromTheMountain.JPG)
 
 At the top there was a castle used to defend the ancient city of Barcelona from sea-born antagonists. 
 
@@ -75,7 +75,7 @@ One thing that has struck me is the number of mopeds here. It makes sense becaus
 
 We set a walking record today: 
 
-![steps2]({{ site.baseurl }}/assets/barcelona/steps2.JPG)
+![steps2]({{ site.baseurl }}/assets/barcelona/steps2.jpg)
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
