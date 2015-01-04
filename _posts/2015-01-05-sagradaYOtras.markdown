@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Sagrada y una montoña
+title:  Sagrada y las frutas
 date:   2015-01-03 12:00:00
 categories: check-in
 ---
