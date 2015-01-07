@@ -30,7 +30,7 @@ Throughout the trip I have been taking photos and posting them here but I also h
 #### Points of note:
 - Make sure to zoom out by pressing (-) in the upper left corner of the frames to see the top. Alternatively, press the different views in the middle top or “Flat Image”.  
 
-- Depending on what you are viewing this post on (iPhone, computer, iPad etc) it may be really slow. What I have the page doing is creating four new webpages and rendering them inside of the main page so it’s not exactly memory friendly. 
+- Depending on what you are viewing this post on (iPhone, computer, iPad etc) it may be really slow. What I have the page doing is creating five new webpages and rendering them inside of the main page so it’s not exactly memory friendly. 
 
 - You can use the links at the end of the post to view the images in their own window. This will work very well with an iPhone or other smartphone because you can activate __gyroscope mode__ and look around the scene by moving your phone around. 
 
